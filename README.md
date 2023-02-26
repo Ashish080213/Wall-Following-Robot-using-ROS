@@ -9,3 +9,10 @@ To achieve this behavior in the robot, I followed two things:
 --> Subscribe to the laser topic of the robot
 
 --> Publish to the velocity topic of the robot
+
+
+launched the keyboard teleop with the following command:
+
+**rosrun teleop_twist_keyboard teleop_twist_keyboard.py**
+
+Now used the keys to move the robot to a convenient position to test my ROS program.
